@@ -8,3 +8,4 @@ Technologies
 - underline all nontrivial words which has no definition
 - link to howtos from your marketing site and new user experience
 - use embedded questions like "how useful was this site?"
+- what formats to use?

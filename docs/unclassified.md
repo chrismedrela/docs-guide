@@ -110,3 +110,9 @@ other (unclassified unclassified)
 - different types of documentation: tutorial vs guide vs reference
   http://jacobian.org/writing/what-to-write/
 - support documentation
+
+topics
+------
+
+- different types of documentation
+- documentation support & maintenance
