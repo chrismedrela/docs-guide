@@ -86,6 +86,7 @@ other practical advices
 - reduce friction especially at the beginning
 - use quick form to get feedback
 - think holistically about documentation      
+- "readme driven development" -- write readme before everything else
 
 problems
 --------
@@ -94,12 +95,6 @@ problems
 - language support
 - not a wiki 
 - feature requests -- long way (why not just edit wiki page?)
-
-contribute
-----------
-
-- Style Guide
-- License
 
 other (unclassified unclassified)
 ---------------------------------
@@ -112,3 +107,6 @@ other (unclassified unclassified)
   - DocBird at Twitter
 - lack of normalization
   - templates
+- different types of documentation: tutorial vs guide vs reference
+  http://jacobian.org/writing/what-to-write/
+- support documentation

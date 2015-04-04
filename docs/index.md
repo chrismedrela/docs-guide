@@ -9,7 +9,8 @@ from [Write the Docs conferences](http://conf.writethedocs.org/).
 
 **Feel free to [give feedback, criticize or
 contribute!](https://github.com/chrismedrela/docs-guide/issues/new) Don't
-afraid to mention what is missing. Every comment is welcome!**
+afraid to mention what is missing. Every comment is welcome!** By the way, The
+Guide Style Guide is this Guide.
 
 See this project on [github](https://github.com/chrismedrela/docs-guide) or
 [readthedocs.org](http://docs-guide.readthedocs.org/en/master/).

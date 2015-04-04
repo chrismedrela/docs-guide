@@ -26,3 +26,4 @@ other advices
 - draw documentation fast and deliver early 
 - give documention first (no implementation nor tests) and ask users
   what they would do next?
+- editing is important, you need an editor http://jacobian.org/writing/editors/

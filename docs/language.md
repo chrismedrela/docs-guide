@@ -29,3 +29,4 @@ Language
   when you listen to, you can't remember too much information (as opposed to
   when you can see the text)
 - ear brain can remember 3 out of 5 bullet points
+- http://jacobian.org/writing/technical-style/#grammar
