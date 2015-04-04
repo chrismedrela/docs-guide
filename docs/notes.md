@@ -30,7 +30,6 @@ Where we have duplication?
 Proposals of Changes in Topics
 ------------------------------
 
-- add: different types of documentation
 - add: documentation support & maintenance
 - add: templates
 - add?: Reference (type of documentation)
