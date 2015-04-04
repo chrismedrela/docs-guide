@@ -8,10 +8,11 @@ Technologies
 - underline all nontrivial words which has no definition
 - link to howtos from your marketing site and new user experience
 - use quick embedded questions like "how useful was this site?" to get feedback
-- what formats to use?
+- what formats to use? markdown?
 - good platform & technical solution
   - readthedocs
   - DocBird at Twitter
+- make it responsive
 
 problems
 --------

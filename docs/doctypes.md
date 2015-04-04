@@ -3,7 +3,15 @@ Documentation Types
 
 - [tutorials](tutorials.md) (aka quick start)
 - topical guides
-- reference
+- reference (aka API documentation)
+
+Great blog post about these three basic types available
+[here](http://jacobian.org/writing/what-to-write/).
+
+Tutorials
+---------
+
+- interactive sessions
 
 Example Applications
 --------------------
