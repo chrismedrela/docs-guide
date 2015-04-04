@@ -14,18 +14,18 @@ Where we have duplication?
 - Culture/Process
 
 - Language/Process:
-  - write via dictation to break long sentences; we have "eye" and "ear"
+  + write via dictation to break long sentences; we have "eye" and "ear"
     brains; when you listen to, you can't remember too much information (as
     opposed to when you can see the text)
 
 - Technologies/Measuring Documentation Quality:
-  - use embedded questions like "how useful was this site?"
+  + use embedded questions like "how useful was this site?"
 
 - Meeting notes/Process
-  - ask yourself the question who is the audience? 
+  + ask yourself the question who is the audience? 
 
 - Meeting notes/Language
-  - define, who, what, and when?
+  + define, who, what, and when?
 
 Proposals of Changes in Topics
 ------------------------------
