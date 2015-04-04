@@ -1,0 +1,17 @@
+site_name: Documentation Guide
+site_description: Hitchhiker's Guide to Documentation
+theme: readthedocs
+pages:
+- [index.md, Home]
+- [language.md, Language]
+- [formatting.md, Formatting]
+- [process.md, Process]
+- [metrics.md, Measuring Documentation Quality]
+- [rolemodels.md, Role Models]
+- [culture.md, Culture]
+- [technologies.md, Technologies]
+- [tutorials.md, Tutorials]
+- [presentations.md, Presentations]
+- [meetings.md, Meeting Notes]
+- [exampleapps.md, Example Applications]
+- [unclassified.md, Unclassified]
