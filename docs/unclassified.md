@@ -22,6 +22,7 @@ Observations
   marketed to potential users too; docs is marketing; it's like shop window
 - people can get to your docs through different paths because web is
   just pages with hyperlinks
+- documentation must be easily searchable (cannot lack an index)
 
 what docs should be about?
 --------------------------

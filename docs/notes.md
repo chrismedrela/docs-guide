@@ -38,6 +38,7 @@ Proposals of Changes in Topics
 - add: Style
 - add: Specifications
 - add: Iterate
+- add: Documentation Audience
 - delete: Role Models
 - rename: Formatting -> Formatting & Layout
 - rename: Measuring Documentation Quality -> Documentation Feedback
