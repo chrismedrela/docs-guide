@@ -2,7 +2,7 @@ Culture
 =======
 
 - code -> test -> doc -> ship it; friends don't allow friends to push
-  code without docs
+  code without docs; documentation is a product
 - DocDay
 - review doc
 - publicly ashame people that they don't have docs

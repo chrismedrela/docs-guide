@@ -33,10 +33,11 @@ Proposals of Changes in Topics
 - add: different types of documentation
 - add: documentation support & maintenance
 - add: templates
-- add: Reference (type of documentation)
-- add: Topical Guide (type of documentation)
+- add?: Reference (type of documentation)
+- add?: Topical Guide (type of documentation)
 - add: General Observations (& Advices)
 - add: Style
+- add: Specifications
 - delete: Role Models
 - rename: Formatting -> Formatting & Layout
 - rename: Measuring Documentation Quality -> Documentation Feedback

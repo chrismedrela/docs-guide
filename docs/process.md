@@ -4,12 +4,13 @@ Process
 PROPOSAL replace subsections with a list of steps:
 
 1. asking questions before writing docs
-2. writing docs
-3. editing
-4. testing docs on users
-5. measuring documentation quality
-6. iterating
-5. maintenance?
+2. choosing a template
+3. writing docs
+4. editing
+5. testing docs on users
+6. measuring documentation quality
+7. iterating
+8. maintenance?
 
 questions you should answer before writing
 ------------------------------------------

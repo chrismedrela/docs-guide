@@ -7,10 +7,7 @@ Observations
 ------------
 
 - lack of documentation is social problem, not technical 
-- wrong doc is better than no doc because others will quickly correct
-  it
 - introducing code base to a new employee takes time and costs
-- others people are confused too, don't be ashame of that
 - [dist] code says what and how, docs tells why
 - information is no longer a value; filtering information and giving us
   the right information and teaching us is now a value
@@ -19,7 +16,6 @@ Observations
 - people care more about documentation if they are accountable for it
   personally (bugs in documentation)
 - documentation is not the same as communication
-- documentation is a product
 - documentation -- tactical thinking
 - it's important to have right links in search engines
 - docs were written for users who already signed up, now it needs to be
@@ -45,17 +41,12 @@ other practical advices
 - if you do not have any editors, ask OReilly for help and releasing
   your documentation as a book
 - show, don't tell
-- reduce friction especially at the beginning
-- think holistically about documentation      
+- think holistically about documentation
 - "readme driven development" -- write readme before everything else
 
 other (unclassified unclassified)
 ---------------------------------
-  
-- your users are your collabolators
-- [dist] presentation vs conversation
+
 - Minimum Viable Documentation ASAP; use template
-- lack of normalization
-  - templates
 - different types of documentation: tutorial vs guide vs reference
   http://jacobian.org/writing/what-to-write/

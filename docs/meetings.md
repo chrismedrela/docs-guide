@@ -12,3 +12,4 @@ Meeting notes
   everybody who has read the note)
 - at the meeting, spend first 10 minutes to read document, then
   discuss; no presentation
+- presentation vs conversation

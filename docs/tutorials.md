@@ -5,3 +5,4 @@ Tutorials
 - http://jacobian.org/writing/what-to-write/#tutorials
 - man documentation is bad tutorial because it's a reference, not a tutorial
 - the frustration is biggest at the beginning of using library
+- reduce friction especially at the beginning 

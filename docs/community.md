@@ -1,6 +1,9 @@
 Community
 =========
 
+- your users are your collabolators
+- wrong doc is better than no doc because others will quickly correct it
+- others people are confused too, don't be ashame of that
 - encourage user to point out in wiki what is missing 
 - edit wiki every few days so it looks active
 - write thanks to the volunteer writers publicly (i.e. on Twitter!)
