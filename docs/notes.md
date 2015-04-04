@@ -31,7 +31,6 @@ Proposals of Changes in Topics
 ------------------------------
 
 - add: documentation support & maintenance
-- add: templates
 - add?: Reference (type of documentation)
 - add?: Topical Guide (type of documentation)
 - add: General Observations (& Advices)
