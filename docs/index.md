@@ -13,7 +13,7 @@ afraid to mention what is missing. Every comment is welcome!** By the way, The
 Guide Style Guide is this Guide.
 
 See this project on [github](https://github.com/chrismedrela/docs-guide) or
-[readthedocs.org](http://docs-guide.readthedocs.org/en/master/).
+[readthedocs.org](http://docs-guide.readthedocs.org/en/latest/).
 
 The Guide is licensed under the [Creative Commons
 Attribution-NonCommercial-ShareAlike 3.0 Unported
