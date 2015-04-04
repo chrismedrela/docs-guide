@@ -12,7 +12,8 @@ from [Write the Docs conferences](http://conf.writethedocs.org/).
 **Feel free to give feedback, criticize or contribute! Don't afraid to mention
 what is missing. Every comment is welcome!**
 
-See this project on [github](TODO).
+See this project on [github](https://github.com/chrismedrela/docs-guide) or
+[readthedocs.org](http://docs-guide.readthedocs.org/en/latest/).
 
 The Guide is licensed under the [Creative Commons
 Attribution-NonCommercial-ShareAlike 3.0 Unported
