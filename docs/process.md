@@ -1,6 +1,16 @@
 Process
 =======
 
+PROPOSAL replace subsections with a list of steps:
+
+1. asking questions before writing docs
+2. writing docs
+3. editing
+4. testing docs on users
+5. measuring documentation quality
+6. iterating
+5. maintenance?
+
 questions you should answer before writing
 ------------------------------------------
 
@@ -27,3 +37,13 @@ other advices
 - give documention first (no implementation nor tests) and ask users
   what they would do next?
 - editing is important, you need an editor http://jacobian.org/writing/editors/
+
+observations
+------------
+
+- new users find different bugs than people who know the project
+- beginners are great at writing templates
+- experts are usually too busy
+- doc written by developers, not special people (like editors)
+- it's harder for smart people to follow "one topic per one sentence"
+  rule 
