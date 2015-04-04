@@ -38,9 +38,10 @@ Proposals of Changes in Topics
 - add: Style
 - add: Specifications
 - add: Iterate
-- add: Documentation Audience
+- add: Audience
+- add: How to read this Guide?
 - delete: Role Models
-- rename: Formatting -> Formatting & Layout
+- rename: Formatting -> UI (& Layout)
 - rename: Measuring Documentation Quality -> Documentation Feedback
 - split: Process -> Process & Organization
 - split: Process -> Process & Before Writing
@@ -57,3 +58,6 @@ Users of This Guide
 - marketing: Formatting, Community
 - doc users: Community
 - Scrum Master: Culture, Process, Technologies
+- software company? marketing agency / consultancy?
+- designers?
+- editors?

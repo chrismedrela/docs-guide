@@ -8,3 +8,4 @@ This is not about presentations for meetings. This is about presentation at i.e.
 - documentation (self guided, read) is different from presentation (presenter
   guided, heard)
 - good presentation slides are bad documentation
+- Q&A at the beginning?
