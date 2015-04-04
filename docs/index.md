@@ -9,8 +9,9 @@ best-practice handbook to the documentation on a daily basis.
 This Guide is under my active development. My goal is to dump all knowledge
 from [Write the Docs conferences](http://conf.writethedocs.org/). 
 
-**Feel free to give feedback, criticize or contribute! Don't afraid to mention
-what is missing. Every comment is welcome!**
+**[Feel free to give feedback, criticize or contribute! Don't afraid to mention
+what is missing. Every comment is
+welcome!](https://github.com/chrismedrela/docs-guide/issues/new)**
 
 See this project on [github](https://github.com/chrismedrela/docs-guide) or
 [readthedocs.org](http://docs-guide.readthedocs.org/en/latest/).
