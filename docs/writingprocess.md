@@ -29,6 +29,7 @@ other advices which involves only the writer
 other advices
 -------------
 
+- write bad first drafts as motivation to expert writers
 - draw documentation fast and deliver early 
 - get someone to test your documentation; don't allow them to use any
   other resource; if they have to use Google, it's a bug in documentation

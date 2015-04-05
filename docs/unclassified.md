@@ -46,24 +46,25 @@ other practical advices
 - "readme driven development" -- write readme before everything else
 
 - use Empathy when writing API reference
-  - Emphaty - ability to mutually experience the thoughts, emotions, and direct
-    experience of others
-  - Sympathy - feeling of care or concern for the state of another
-  - use your own API
-  - use other APIs and their docs
-  - know your readers -- survey them
-  - sample code and writing instructions are most important for reference users
-  - tell true stories ==> give use cases
-  - provide friendly UI
-    - single page docs & click insanity
-    - better typography
-  - reference completeness is not enough
-  - give most attention to your API's most common endpoints and methods;
-    provide order for them
-  - document edge cases!
-  - provide meaningful error messages and HTTP response codes
-  - role examples: [twillo](twilio.com)
-  - provide "debugging errors" section
+    * Emphaty - ability to mutually experience the thoughts, emotions, and
+      direct experience of others
+    * Sympathy - feeling of care or concern for the state of another
+    * use your own API
+    * use other APIs and their docs
+    * know your readers -- survey them
+    * sample code and writing instructions are most important for reference
+      users
+    * tell true stories ==> give use cases
+    * provide friendly UI
+        + single page docs & click insanity
+        + better typography
+    * reference completeness is not enough
+    * give most attention to your API's most common endpoints and methods;
+      provide order for them
+    * document edge cases!
+    * provide meaningful error messages and HTTP response codes
+    * role examples: [twillo](twilio.com)
+    * provide "debugging errors" section
 
 - how-tos
 

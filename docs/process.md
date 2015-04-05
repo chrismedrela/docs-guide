@@ -1,14 +1,7 @@
 Process
 =======
 
-other advices
--------------
-
 - pair with new developers to make docs as they have questions    
-
-observations
-------------
-
 - new users find different bugs than people who know the project
 - beginners are great at writing templates
 - experts are usually too busy
