@@ -1,6 +1,7 @@
 Language
 ========
 
+- you need an editor http://jacobian.org/writing/editors/.
 - unclear documentation
 - don't use passive -- clearly state who is the subject
 - undefined "it" -- use the noun (referent) instead of "it"

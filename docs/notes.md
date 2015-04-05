@@ -54,10 +54,15 @@ Users of This Guide
 - designers: Formatting
 - editors: Language
 - analytics: Measuring Documentation Quality
-- 
+
 - doc users: Community
 - community supporters: Community, Templates
 - developers (doc writers): Process, Tutorials
 - internal community supporters (i.e. in a company): Process, Culture,
   Templates
 - marketing: ?
+
+Duplication
+-----------
+
+- Process: For Writers, For Community Supporters & Organizers

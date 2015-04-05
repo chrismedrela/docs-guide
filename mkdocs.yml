@@ -2,21 +2,23 @@ site_name: Documentation Guide
 site_description: Hitchhiker's Guide to Documentation
 theme: readthedocs
 pages:
+
 - [index.md, Home]
 
 - [general.md, For Everyone, General Notes]
 - [doctypes.md, For Everyone, Documentation Types]
 
-- [process.md, For Writers, Process]
+- [structure.md, For Writers, Structuring Documentation]
+- [writingprocess.md, For Writers, Writing Process]
 - [tutorials.md, For Writers, Tutorials]
+
+- [language.md, For Editors, Language]
 
 - [community.md, For Community Supporters & Organizers, Community]
 - [process.md, For Community Supporters & Organizers, Process]
 - [culture.md, For Community Supporters & Organizers, Culture]
 - [templates.md, For Community Supporters & Organizers, Templates]
 - [technologies.md, For Community Supporters & Organizers, Technologies]
-
-- [language.md, For Editors, Language]
 
 - [ui.md, For Designers, UI]
 
