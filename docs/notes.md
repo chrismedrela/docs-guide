@@ -48,8 +48,7 @@ Proposals of Changes in Topics
 Users of This Guide
 -------------------
 
-- forall: 
-  - Documentation Types 
+- forall: Documentation Types, General Notes 
 - managers: Meeting Notes
 - presenters: Presentations
 - designers: Formatting

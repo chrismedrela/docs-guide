@@ -3,19 +3,27 @@ site_description: Hitchhiker's Guide to Documentation
 theme: readthedocs
 pages:
 - [index.md, Home]
-- [general.md, General Observations]
-- [language.md, Language]
-- [ui.md, UI]
+
+- [general.md, For All, General Notes]
+- [doctypes.md, For All, Documentation Types]
+
 - [process.md, Process]
-- [metrics.md, Measuring Documentation Quality]
 - [rolemodels.md, Role Models]
 - [culture.md, Culture]
 - [community.md, Community]
 - [templates.md, Templates]
 - [technologies.md, Technologies]
-- [doctypes.md, Documentation Types]
 - [tutorials.md, Tutorials]
-- [presentations.md, Presentations]
-- [meetings.md, Meeting Notes]
-- [unclassified.md, Unclassified]
-- [notes.md, Notes]
+
+- [language.md, For Editors, Language]
+
+- [ui.md, For Designers, UI]
+
+- [metrics.md, For Analytics, Measuring Documentation Quality]
+
+- [meetings.md, For Managers, Meeting Notes]
+
+- [presentations.md, For Presenters, Presentations]
+
+- [unclassified.md, Miscellaneous, Unclassified]
+- [notes.md, Miscellaneous, Notes]

@@ -1,5 +1,5 @@
-General Observations
-====================
+General Notes
+=============
 
 1. Bad documentation is usually social problem, not technical one.
 
