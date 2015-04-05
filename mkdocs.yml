@@ -8,7 +8,7 @@ pages:
 - [general.md, For Everyone, General Notes]
 - [doctypes.md, For Everyone, Documentation Types]
 
-- [structure.md, For Writers, Structuring Documentation]
+- [structure.md, For Writers, Doc Structure]
 - [writingprocess.md, For Writers, Writing Process]
 - [tutorials.md, For Writers, Tutorials]
 
@@ -19,6 +19,8 @@ pages:
 - [culture.md, For Community Supporters & Organizers, Culture]
 - [templates.md, For Community Supporters & Organizers, Templates]
 - [technologies.md, For Community Supporters & Organizers, Technologies]
+
+- [users.md, For Doc Users, For Doc Users]
 
 - [ui.md, For Designers, UI]
 
