@@ -4,7 +4,7 @@ theme: readthedocs
 pages:
 - [index.md, Home]
 - [language.md, Language]
-- [formatting.md, Formatting]
+- [ui.md, UI]
 - [process.md, Process]
 - [metrics.md, Measuring Documentation Quality]
 - [rolemodels.md, Role Models]

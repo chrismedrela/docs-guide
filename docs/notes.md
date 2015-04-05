@@ -40,24 +40,32 @@ Proposals of Changes in Topics
 - add: Iterate
 - add: Audience
 - add: How to read this Guide?
+- add: Documentation Structure
 - delete: Role Models
-- rename: Formatting -> UI (& Layout)
 - rename: Measuring Documentation Quality -> Documentation Feedback
+- rename: Language -> Language & Style
 - split: Process -> Process & Organization
 - split: Process -> Process & Before Writing
 
 Users of This Guide
 -------------------
 
+- forall: 
+  - Documentation Types 
 - managers: Meeting Notes
 - presenters: Presentations
-- developers: everything
+- designers: Formatting
+- doc users: Community
+- editors: Language
 - community supporters: Community, Templates
+- analytics: Measuring Documentation Quality
+- developers (doc writers): General Observations, Process, everything
 - internal community supporters (i.e. in a company): Process, Culture,
   Templates
-- marketing: Formatting, Community
-- doc users: Community
-- Scrum Master: Culture, Process, Technologies
-- software company? marketing agency / consultancy?
-- designers?
-- editors?
+- marketing: ?
+
+Others:
+
+- server administrators
+- Scrum Masters: Culture, Process, Technologies
+
