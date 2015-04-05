@@ -4,16 +4,16 @@ theme: readthedocs
 pages:
 - [index.md, Home]
 
-- [general.md, For All, General Notes]
-- [doctypes.md, For All, Documentation Types]
+- [general.md, For Everyone, General Notes]
+- [doctypes.md, For Everyone, Documentation Types]
 
-- [process.md, Process]
-- [rolemodels.md, Role Models]
-- [culture.md, Culture]
-- [community.md, Community]
-- [templates.md, Templates]
-- [technologies.md, Technologies]
-- [tutorials.md, Tutorials]
+- [process.md, 'For ?', Process]
+- [rolemodels.md, 'For ?', Role Models]
+- [culture.md, 'For ?', Culture]
+- [community.md, 'For ?', Community]
+- [templates.md, 'For ?', Templates]
+- [technologies.md, 'For ?', Technologies]
+- [tutorials.md, 'For ?', Tutorials]
 
 - [language.md, For Editors, Language]
 
