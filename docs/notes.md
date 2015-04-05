@@ -52,17 +52,12 @@ Users of This Guide
 - managers: Meeting Notes
 - presenters: Presentations
 - designers: Formatting
-- doc users: Community
 - editors: Language
-- community supporters: Community, Templates
 - analytics: Measuring Documentation Quality
-- developers (doc writers): General Observations, Process, Tutorials
+- 
+- doc users: Community
+- community supporters: Community, Templates
+- developers (doc writers): Process, Tutorials
 - internal community supporters (i.e. in a company): Process, Culture,
   Templates
 - marketing: ?
-
-Others:
-
-- server administrators
-- Scrum Masters: Culture, Process, Technologies
-

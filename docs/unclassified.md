@@ -44,6 +44,7 @@ other practical advices
 - show, don't tell
 - think holistically about documentation
 - "readme driven development" -- write readme before everything else
+
 - use Empathy when writing API reference
   - Emphaty - ability to mutually experience the thoughts, emotions, and direct
     experience of others
@@ -63,7 +64,11 @@ other practical advices
   - provide meaningful error messages and HTTP response codes
   - role examples: [twillo](twilio.com)
   - provide "debugging errors" section
+
 - how-tos
+
+- don't follow big companies, follow the small ones
+- small companies make better documentation
 
 other (unclassified unclassified)
 ---------------------------------

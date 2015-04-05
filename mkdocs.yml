@@ -7,13 +7,14 @@ pages:
 - [general.md, For Everyone, General Notes]
 - [doctypes.md, For Everyone, Documentation Types]
 
-- [process.md, "For ?", Process]
-- [rolemodels.md, "For ?", Role Models]
-- [culture.md, "For ?", Culture]
-- [community.md, "For ?", Community]
-- [templates.md, "For ?", Templates]
-- [technologies.md, "For ?", Technologies]
-- [tutorials.md, "For ?", Tutorials]
+- [process.md, For Writers, Process]
+- [tutorials.md, For Writers, Tutorials]
+
+- [community.md, For Community Supporters & Organizers, Community]
+- [process.md, For Community Supporters & Organizers, Process]
+- [culture.md, For Community Supporters & Organizers, Culture]
+- [templates.md, For Community Supporters & Organizers, Templates]
+- [technologies.md, For Community Supporters & Organizers, Technologies]
 
 - [language.md, For Editors, Language]
 
