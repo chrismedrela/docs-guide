@@ -3,6 +3,7 @@ site_description: Hitchhiker's Guide to Documentation
 theme: readthedocs
 pages:
 - [index.md, Home]
+- [general.md, General Observations]
 - [language.md, Language]
 - [ui.md, UI]
 - [process.md, Process]

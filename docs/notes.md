@@ -31,8 +31,6 @@ Proposals of Changes in Topics
 ------------------------------
 
 - add: documentation support & maintenance
-- add?: Reference (type of documentation)
-- add?: Topical Guide (type of documentation)
 - merge: Tutorials & Documentation Types
 - add: General Observations (& Advices)
 - add: Style
@@ -59,7 +57,7 @@ Users of This Guide
 - editors: Language
 - community supporters: Community, Templates
 - analytics: Measuring Documentation Quality
-- developers (doc writers): General Observations, Process, everything
+- developers (doc writers): General Observations, Process, Tutorials
 - internal community supporters (i.e. in a company): Process, Culture,
   Templates
 - marketing: ?

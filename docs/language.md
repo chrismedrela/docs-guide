@@ -33,6 +33,8 @@ Language
   when you can see the text)
 - ear brain can remember 3 out of 5 bullet points
 - http://jacobian.org/writing/technical-style/#grammar
+- read good examples: Vintage cookbooks and Martha Stewart and Dorothy
+  Parker 
 
 "design patterns" in documentation
 ----------------------------------
