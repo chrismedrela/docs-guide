@@ -1,23 +1,29 @@
 Technologies
 ============
 
-- doc checked in repo
-- doc is plain text (Restructured Text at Twitter)
-- every doc easily accessible -- there must be one page with links to
-  all existing docs
-- underline all nontrivial words which has no definition
-- link to howtos from your marketing site and new user experience
-- use quick embedded questions like "how useful was this site?" to get feedback
-- what formats to use? markdown?
-- good platform & technical solution
-  + readthedocs
-  + DocBird at Twitter
-- make it responsive
+This page is about some technical solutions and decisions that make creating
+documentation easier.
 
-problems
---------
+1. Keep your documentation as plain text. Use some markup language, like
+   Markdown or RestructredText.
 
-- APIdocs
-- language support
-- not a wiki 
-- feature requests -- long way (why not just edit wiki page?)
+2. Check documentation into repository.
+
+3. Ensure your documentation system is responsive, i.e. you can view
+   documentation on a smartphone.
+
+An example of good and supereasy platform is [readthedocs](readthedocs.org). Some companies has their own platform, i.e. DocBird at Twitter.
+
+Markup language
+---------------
+
+You should use Markdown or RestructuredText. The former is easier while the latter has better programming languages support and cross references.
+
+**TODO** comparision: Markdown vs RestructuredText
+
+Problems with current approach
+------------------------------
+
+- generating APIdocs
+- not a wiki
+- long way to make an edit --> you need to go through feature requests

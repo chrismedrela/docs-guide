@@ -3,11 +3,6 @@ Notes
 
 My private notes to keep track what is bad about this Guide.
 
-Ideas
------
-
-* start each topic with three most important advices
-
 Where we have duplication?
 --------------------------
 
@@ -30,9 +25,8 @@ Where we have duplication?
 Proposals of Changes in Topics
 ------------------------------
 
+- add: Discoverability
 - add: documentation support & maintenance
-- merge: Tutorials & Documentation Types
-- add: General Observations (& Advices)
 - add: Style
 - add: Specifications
 - add: Iterate
@@ -44,6 +38,7 @@ Proposals of Changes in Topics
 - rename: Language -> Language & Style
 - split: Process -> Process & Organization
 - split: Process -> Process & Before Writing
+- split: Measure Documentation Quality -> Measure Documentation Quality & Getting Feedback
 
 Users of This Guide
 -------------------
@@ -62,7 +57,3 @@ Users of This Guide
   Templates
 - marketing: ?
 
-Duplication
------------
-
-- Process: For Writers, For Community Supporters & Organizers

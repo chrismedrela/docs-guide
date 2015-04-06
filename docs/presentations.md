@@ -1,11 +1,14 @@
 Presentations
 =============
 
-This is not about presentations for meetings. This is about presentation at i.e. conferences.
+This page is about making presentation at i.e. conferences. This is not about
+presentations for meetings.
 
-- do not share presentation slides, ask the audience to make their own
-- slides without presenter are useless
-- documentation (self guided, read) is different from presentation (presenter
-  guided, heard)
-- good presentation slides are bad documentation
-- Q&A at the beginning?
+1. Slides without presenter are useless. Therefore, do not share presentation
+   slides, ask the audience to make their own notes.
+
+2. Presentation is not a form of documentation. Presentation is presenter
+   guided and heard while documentation is self guided and read. In other
+   words, **good presentation slides are bad documentation** and vice versa.
+
+3. Start presentation with Questions & Answers.

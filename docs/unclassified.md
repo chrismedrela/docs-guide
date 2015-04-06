@@ -46,6 +46,7 @@ other practical advices
 - "readme driven development" -- write readme before everything else
 
 - use Empathy when writing API reference
+
     * Emphaty - ability to mutually experience the thoughts, emotions, and
       direct experience of others
     * Sympathy - feeling of care or concern for the state of another
@@ -67,9 +68,14 @@ other practical advices
     * provide "debugging errors" section
 
 - how-tos
+- underline all nontrivial words which has no definition
 
 - don't follow big companies, follow the small ones
 - small companies make better documentation
+
+- every doc easily accessible -- there must be one page with links to
+  all existing docs ==> structure?
+- link to howtos from your marketing site and new user experience
 
 other (unclassified unclassified)
 ---------------------------------
