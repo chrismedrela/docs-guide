@@ -1,5 +1,5 @@
-Doc Structure
-=============
+Documentation Structure
+=======================
 
 This page is about how to split huge documentation base into pages and how to
 structure pages.

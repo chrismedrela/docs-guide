@@ -7,12 +7,15 @@ There are following steps of creating documentation:
 
 1. **An organizer**
 
-    * provides platform and tools to create documentation,
-    * provides [documentation templates](templates.md),
-    * promotes culture of creating documentation,
-    * overcome technical barriers,
-    * enforces initial structure of documentation and
-    * enforce some Best Practices to standardize docs.
+    * provides [Platform & Tools](platform.md) to create documentation and
+      overcome technical barriers,
+    * provides [Templates](templates.md),
+    * enforces initial [Documentation Structure](structure.md),
+    * splits work between people and takes care of [Managing
+      People](managing.md),
+    * promotes [Culture](culture.md) of creating documentation and
+    * in the case of open source projects, takes care about entire
+      [Community](community.md).
 
 2. **A writer**
 
