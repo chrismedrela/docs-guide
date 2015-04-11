@@ -8,8 +8,6 @@ Formatting
 
 3. Use icons. You can find free icons on the net.
 
-4. Step-by-step ("step one", "step two" sections in tutorials).
-
 Use code snippets, diagrams, icons and so on helps to overcome the monotony of
 text.
 

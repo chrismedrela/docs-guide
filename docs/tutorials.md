@@ -18,6 +18,8 @@ project. Therefore, it's really important to reduce friction in tutorials.
 
 Good API references are really bad tutorials (i.e. man documentation).
 
+Be step-by-step ("step one", "step two" sections in tutorials).
+
 See also
 --------
 
