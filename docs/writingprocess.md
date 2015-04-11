@@ -4,20 +4,6 @@ Writing process
 This page is about process of creating documentation, from the view of a
 writer.
 
-This process consists of the following steps:
-
-1. Understand your readers.
-2. Choose a template.
-3. Write docs.
-
-After these three steps:
-
-1. An editor edits the documentation.
-2. The docs are tested on users.
-3. The documentation quality is measured.
-4. Analytics make conclusions and everyone moves to the next iteration.
-5. At the end, you can maintanance the docs.
-
 Understand your readers
 -----------------------
 
