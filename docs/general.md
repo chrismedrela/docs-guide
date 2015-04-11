@@ -5,4 +5,4 @@ General Notes
 
 2. Documentation is often read by managers who choose products. Writers often
    forget that they are writing not only for technical audience, but their
-   documentation is like a shop window.
+   documentation is also like a shop window.

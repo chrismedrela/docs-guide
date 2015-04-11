@@ -1,8 +1,26 @@
 Tutorials
 =========
 
-- in tutorial, give people easy wins
-- http://jacobian.org/writing/what-to-write/#tutorials
-- man documentation is bad tutorial because it's a reference, not a tutorial
-- the frustration is biggest at the beginning of using library
-- reduce friction especially at the beginning 
+Tutorials should:
+
+- give people easy wins,
+
+- be quick (a new user should experience success in less than half an hour),
+
+- demonstrate how your project "feels",
+
+- introduce high-level concepts from your project (i.e. views, models and
+  controllers in the case of MVC web framework).
+
+It's important that the frustration is biggest at the beginning of using
+library because the user usually don't know even the basic concepts from your
+project. Therefore, it's really important to reduce friction in tutorials.
+
+Good API references are really bad tutorials (i.e. man documentation).
+
+See also
+--------
+
+- [Jacobian great blog post](http://jacobian.org/writing/what-to-
+  write/#tutorials) about differences between tutorials, guides and API
+  references.

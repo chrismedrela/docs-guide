@@ -22,14 +22,21 @@ license](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 How to read this Guide?
 -----------------------
 
-TODO
+If you are not included in the following list, please [tell us
+that](https://github.com/chrismedrela/docs-guide/issues/new)!
 
-<!--
-Different kinds of documentation
---------------------------------
+* Most developers are documentation **writers**.
+* Once you finished writing documentation, you should find an **editor** or you
+  should edit yourself your draft.
+* **Organizers** promote culture of writing documentation, split work between
+  people, overcome technical barriers, create some initial structure for
+  documentation, standarize documentation etc.
+* **Designers** take care of documentation UI, readability and also marketing
+  side.
+* **Analytics** get feedback from readers, analyze it and make conclusions to
+  make the next iteration better.
+* **Managers** can make their meeting notes better.
+* **Presenters** create presentations, not documentation!
 
-- [Tutorials](tutorials.md)
-- [Presentations](presentations.md)
-- [Meeting Notes](meetings.md)
-- [Example Applications](exampleapps.md)
--->
+Once you know who you are, have a look at the content on the left side of this
+Guide.
