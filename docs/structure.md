@@ -1,7 +1,8 @@
 Doc Structure
 =============
 
-This page is about how to split huge documentation base into pages.
+This page is about how to split huge documentation base into pages and how to
+structure pages.
 
 General observations
 --------------------
@@ -74,3 +75,23 @@ There are some downsides:
 When using single-page, you should provide **persistent navigation**, otherwise
 you risk *scroll insanity*. You can also provide *dynamic orientation*, so
 navigation shows where on the page you are.
+
+Page structure
+--------------
+
+Inside one page, you also need some structure. Below, we listed the most common structures:
+
+- **tell a story** -- follow a linear timeline. Walkthrough.
+
+- **paint a picture** -- describe everything on the screen. Use when
+  introducing a feature or tool
+
+- **reference** -- introduce one at a time and describe.
+
+- **theme + situations** -- idea and use cases. Use in introduction to a
+  concept.
+
+- **drill down** -- general to specific.
+
+- **level up** -- start simple (information hiding) and reveal it as you go
+  along. Use in Getting Started.

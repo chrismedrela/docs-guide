@@ -77,6 +77,14 @@ other practical advices
   all existing docs ==> structure?
 - link to howtos from your marketing site and new user experience
 
+- process
+    * write bad first drafts as motivation to expert writers
+    * draw documentation fast and deliver early 
+    * get someone to test your documentation; don't allow them to use any other
+      resource; if they have to use Google, it's a bug in documentation
+    * give documention first (no implementation nor tests) and ask users what
+      they would do next?
+
 other (unclassified unclassified)
 ---------------------------------
 

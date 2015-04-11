@@ -1,40 +1,62 @@
 Writing process
 ===============
 
-PROPOSAL replace subsections with a list of steps:
+This page is about process of creating documentation, from the view of a
+writer.
 
-1. asking questions before writing docs
-2. choosing a template
-3. writing docs
-4. editing
-5. testing docs on users
-6. measuring documentation quality
-7. iterating
-8. maintenance?
+This process consists of the following steps:
 
-questions you should answer before writing
-------------------------------------------
+1. Understand your readers.
+2. Choose a template.
+3. Write docs.
 
-- pick an audience and write only for it -- what is the audience's
-  knowledge and what are their goals? 
-- create personas of your users -- think what will users think about
-  your doc? i.e. user = single developer, user = huge company and so on    
+After these three steps:
 
-other advices which involves only the writer
---------------------------------------------
+1. An editor edits the documentation.
+2. The docs are tested on users.
+3. The documentation quality is measured.
+4. Analytics make conclusions and everyone moves to the next iteration.
+5. At the end, you can maintanance the docs.
 
-- make cats arrive when you're writing (short sentences)
-- use typewriter instead of computer to write an outline
+Understand your readers
+-----------------------
 
-other advices
--------------
+Ask yourself the following questions:
 
-- write bad first drafts as motivation to expert writers
-- draw documentation fast and deliver early 
-- get someone to test your documentation; don't allow them to use any
-  other resource; if they have to use Google, it's a bug in documentation
-- give documention first (no implementation nor tests) and ask users
-  what they would do next?
+* Who is your audience?
 
+    - Is it a single developer or a huge company?
+
+* What does the reader already know? What kind of reader's knowledge can you
+  assume?
+
+    - Does the reader know the basic concepts from your project? I.e., if
+      you're documenting MVC web framework, can you assume that your reader
+      knows what is a model, view and controller?
+
+    - Does the reader know the language your project is written in? What is
+      their level?
+
+* What is the goal of your reader?
+
+    - Does they have some problem that he needs to solve?
+    - Does they want to have the overview of your project or of some part of
+      it?
+
+Choose a template
+-------------------
+
+See [Templates](templates.md) for more info.
+
+Write docs
+----------
+
+A common problem is to write too long sentences. Make cats arrive when you're
+writing. That way, you will write shorter sentences.
+
+Use typewriter instead of computer -- you must not make mistakes.
+
+What to do next?
+----------------
 
 The next thing to do after writing is editing your documentation. See "For Editors" section.
