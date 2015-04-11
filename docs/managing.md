@@ -1,7 +1,7 @@
-Process
-=======
+Managing People
+===============
 
-This page is about how to organize creating documentation and split it between
+This page is about how to split the work of creating documentation between
 people.
 
 The most important observation is that novices are usually better at writing
