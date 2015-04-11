@@ -1,21 +1,18 @@
 The Hitchhiker's Guide to Documentation!
 ========================================
 
-This Guide exists to provide developers advices and a best-practice handbook to
-the documentation on a daily basis.
+This Guide exists to provide advices and a best-practice handbook about creating documentation. The goal is to dump all knowledge from [Write the Docs conferences](http://conf.writethedocs.org/).
 
-This Guide is under my active development. My goal is to dump all knowledge
-from [Write the Docs conferences](http://conf.writethedocs.org/). 
+This Guide is in the early stage but is under active development.
 
-**Feel free to [give feedback, criticize or
-contribute!](https://github.com/chrismedrela/docs-guide/issues/new) Don't
-afraid to mention what is missing. Every comment is welcome!** By the way, The
-Guide Style Guide is this Guide.
+<span class="warn"></span>**Feel free to [give feedback, criticize or
+contribute](https://github.com/chrismedrela/docs-guide/issues/new)! Don't
+afraid to mention what is missing. Every comment is welcome!**
 
 See this project on [github](https://github.com/chrismedrela/docs-guide) or
 [readthedocs.org](http://docs-guide.readthedocs.org/en/latest/).
 
-The Guide is licensed under the [Creative Commons
+The Guide is2 licensed under the [Creative Commons
 Attribution-NonCommercial-ShareAlike 3.0 Unported
 license](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 

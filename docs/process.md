@@ -43,7 +43,8 @@ There are following steps of creating documentation:
 
 **A presenter** create presentations, not documentation!
 
-> <img src="http://findicons.com/icon/download/69037/alert/48/png" />If you are not listed in this list, please [tell us that](https://github.com/chrismedrela/docs-guide/issues/new).
+<span class="warn"></span>If you are not listed in this list, please [tell us
+that](https://github.com/chrismedrela/docs-guide/issues/new).
 
 Note that one person can have many roles, i.e. a writer can be its own editor
 (however it's not recommended).

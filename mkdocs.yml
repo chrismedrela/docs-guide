@@ -1,6 +1,9 @@
 site_name: Documentation Guide
 site_description: Hitchhiker's Guide to Documentation
 theme: readthedocs
+extra_css:
+- style.css
+
 pages:
 
 - [index.md, Home]
