@@ -1,5 +1,5 @@
-Templates & Standardization
-===========================
+Templates
+=========
 
 This page is about using templates to i.e. standardize documentation.
 

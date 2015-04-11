@@ -1,8 +1,8 @@
-Technologies
-============
+Platform & Tools
+================
 
-This page is about some technical solutions and decisions that make creating
-documentation easier.
+This page is about some technical solutions (platform and tools) and technical
+decisions that make creating documentation easier.
 
 1. Keep your documentation as plain text. Use some markup language, like
    Markdown or RestructredText.
