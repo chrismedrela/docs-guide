@@ -3,24 +3,20 @@ Notes
 
 My private notes to keep track what is bad about this Guide.
 
+The goal is to dump all knowledge from [Write the Docs
+conferences](http://conf.writethedocs.org/).
+
 Where we have duplication?
 --------------------------
 
-- Culture/Process
-
-- Language/Process:
-  + write via dictation to break long sentences; we have "eye" and "ear"
-    brains; when you listen to, you can't remember too much information (as
-    opposed to when you can see the text)
-
 - Technologies/Measuring Documentation Quality:
-  + use embedded questions like "how useful was this site?"
+    + use embedded questions like "how useful was this site?"
 
 - Meeting notes/Process
-  + ask yourself the question who is the audience? 
+    + ask yourself the question who is the audience? 
 
 - Meeting notes/Language
-  + define, who, what, and when?
+    + define, who, what, and when?
 
 Proposals of Changes in Topics
 ------------------------------
@@ -31,29 +27,14 @@ Proposals of Changes in Topics
 - add: Specifications
 - add: Iterate
 - add: Audience
-- add: How to read this Guide?
-- add: Documentation Structure
-- delete: Role Models
 - rename: Measuring Documentation Quality -> Documentation Feedback
 - rename: Language -> Language & Style
-- split: Process -> Process & Organization
-- split: Process -> Process & Before Writing
-- split: Measure Documentation Quality -> Measure Documentation Quality & Getting Feedback
+- split: Measure Documentation Quality -> Measure Documentation Quality &
+  Getting Feedback
 
 Users of This Guide
 -------------------
 
-- forall: Documentation Types, General Notes 
-- managers: Meeting Notes
-- presenters: Presentations
-- designers: Formatting
-- editors: Language
-- analytics: Measuring Documentation Quality
-
-- doc users: Community
-- community supporters: Community, Templates
-- developers (doc writers): Process, Tutorials
-- internal community supporters (i.e. in a company): Process, Culture,
-  Templates
-- marketing: ?
+- split: Organizers -> Organizers & Community Supporters
+- add: Marketing ?
 
