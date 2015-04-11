@@ -6,7 +6,6 @@ TODO: Classify it!
 Observations
 ------------
 
-- lack of documentation is social problem, not technical 
 - introducing code base to a new employee takes time and costs
 - [dist] code says what and how, docs tells why
 - information is no longer a value; filtering information and giving us
@@ -34,15 +33,13 @@ what docs should be about?
   defaults, provide recommendations;
 - compare bad/good; too less/enough/too much; before/after;
   good/better/best;
+- explain "why?" (the reason for some decisions).
 
 other practical advices
 -----------------------
 
-- make spec
 - if you do not have any editors, ask OReilly for help and releasing
   your documentation as a book
-- show, don't tell
-- think holistically about documentation
 - "readme driven development" -- write readme before everything else
 
 - use Empathy when writing API reference
@@ -76,14 +73,18 @@ other practical advices
 - every doc easily accessible -- there must be one page with links to
   all existing docs ==> structure?
 - link to howtos from your marketing site and new user experience
-
+ 
 - process
+
     * write bad first drafts as motivation to expert writers
     * draw documentation fast and deliver early 
     * get someone to test your documentation; don't allow them to use any other
       resource; if they have to use Google, it's a bug in documentation
     * give documention first (no implementation nor tests) and ask users what
       they would do next?
+
+- use lists instead of paragraphs
+- use hashtags
 
 other (unclassified unclassified)
 ---------------------------------

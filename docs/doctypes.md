@@ -3,7 +3,7 @@ Documentation Types
 
 There are three basic types of documentations:
 
-- [tutorials](tutorials.md) (aka quick start)
+- [tutorials](tutorials.md) (aka quick start or getting started)
 - topical guides
 - reference (aka API documentation)
 
@@ -51,6 +51,12 @@ examples. Some developers start from such example instead of reading
 documentation. Example apps are also easier and faster to create.
 
 A role model of such examples is [braintree](https://github.com/braintree).
+
+Cheat sheet
+-----------
+
+Cheat sheets can contain the basic information about most important concepts
+from your project.
 
 What is not documentation?
 --------------------------

@@ -30,6 +30,8 @@ General advices
 
 - Use [hemingwayapp.com](http://hemingwayapp.com).
 
+- Follow [RFC language guide](http://www.faqs.org/rfcs/rfc2119.html).
+
 - Read good example: 
 
     + Vintage cookbooks
