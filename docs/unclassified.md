@@ -85,6 +85,10 @@ other practical advices
 
 - use lists instead of paragraphs
 - use hashtags
+- use "verbosity" option in documentation so the reader can choose the level of
+  details described
+- do not autogenerate docs
+- fix product failures instead of documenting around them
 
 other (unclassified unclassified)
 ---------------------------------
