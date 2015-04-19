@@ -12,3 +12,8 @@ presentations for meetings.
    words, **good presentation slides are bad documentation** and vice versa.
 
 3. Start presentation with Questions & Answers.
+
+See also
+--------
+
+- http://www.agiledeveloper.com/presentations/10_commandments_of_technical_presentations.pdf
