@@ -34,6 +34,12 @@ If there is too much material for one audience for one page, you should split it
 **Practical advice**: put all topics on post-it stickers and then try to
 organize them.
 
+One Entry Point
+---------------
+
+It's important to have one page with links to every other documentation page. A
+good example is [Django documentation](https://docs.djangoproject.com/en/1.8/).
+
 Single page documentation
 -------------------------
 

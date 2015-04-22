@@ -9,7 +9,7 @@ conferences](http://conf.writethedocs.org/).
 Where we have duplication?
 --------------------------
 
-- Technologies/Measuring Documentation Quality:
+- Platform & Tools/Measuring Documentation Quality:
     + use embedded questions like "how useful was this site?"
 
 - Meeting notes/Process
@@ -37,4 +37,3 @@ Users of This Guide
 
 - split: Organizers -> Organizers & Community Supporters
 - add: Marketing ?
-

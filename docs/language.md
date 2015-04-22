@@ -21,12 +21,8 @@ General advices
 
 - Make your sentences simple.
 
-    + Write via dictation to break long sentences; we have "eye" and "ear"
-      brains; when you listen to, you can't remember too much information (as
-      opposed to when you can see the text).
-    + Ear brain can remember 3 out of 5 bullet points.
-    + Every piece of doc will be translated by google translator, which cannot
-      handle complicated structures.
+- Use simple words. You can prepare a list of common simple English words and
+  configure your text editor to underline all words that are not in the list.
 
 - Use [hemingwayapp.com](http://hemingwayapp.com).
 

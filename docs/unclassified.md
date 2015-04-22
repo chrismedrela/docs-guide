@@ -38,10 +38,6 @@ what docs should be about?
 other practical advices
 -----------------------
 
-- if you do not have any editors, ask OReilly for help and releasing
-  your documentation as a book
-- "readme driven development" -- write readme before everything else
-
 - use Empathy when writing API reference
 
     * Emphaty - ability to mutually experience the thoughts, emotions, and
@@ -64,27 +60,12 @@ other practical advices
     * role examples: [twillo](twilio.com)
     * provide "debugging errors" section
 
-- how-tos
-- underline all nontrivial words which has no definition
-
 - don't follow big companies, follow the small ones
 - small companies make better documentation
-
-- every doc easily accessible -- there must be one page with links to
-  all existing docs ==> structure?
-- link to howtos from your marketing site and new user experience
 
 - use lists instead of paragraphs
 - use hashtags
 - use "verbosity" option in documentation so the reader can choose the level of
   details described
-- do not autogenerate docs
 - fix product failures instead of documenting around them
 - mistakeproofing.com
-
-other (unclassified unclassified)
----------------------------------
-
-- Minimum Viable Documentation ASAP; use template
-- different types of documentation: tutorial vs guide vs reference
-  http://jacobian.org/writing/what-to-write/

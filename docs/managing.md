@@ -28,4 +28,12 @@ other resource like Google. If they need it, consider it as a bug in
 documentation.
 
 Sometimes it's better to write documentation before implementing and testing
-and give the docs to the users and ask them what they would do next?
+and give the docs to the users and ask them what they would do next? This is
+similar to "readme driven development" -- writing readme before everything
+else.
+
+Finding Editors
+---------------
+
+If you do not have any editors, ask OReilly for help and releasing your
+documentation as a book.
