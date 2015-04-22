@@ -38,7 +38,7 @@ There are following steps of creating documentation:
 
 6. **A manager**
 
-    * creates [Meeting Notes](mettings.md) and
+    * creates [Meeting Notes](meetings.md) and
     * disturbs other people.
 
 7. The next iteration happens.
