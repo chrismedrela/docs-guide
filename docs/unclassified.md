@@ -69,3 +69,5 @@ other practical advices
   details described
 - fix product failures instead of documenting around them
 - mistakeproofing.com
+
+- in Wordpress they have a roadmap for documentation
