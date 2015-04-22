@@ -1,5 +1,5 @@
-Language
-========
+Style
+=====
 
 Some language structures, tenses etc. makes docs unclear. This page is about
 what kind of language to use.

@@ -19,24 +19,26 @@ There are following steps of creating documentation:
 
 2. **A writer**
 
-    * understands their reader,
-    * chooses a template and
-    * writes/improves documentation.
+    * [Understands Reader](understandreader.md) and asks who is their audience,
+    * chooses a template,
+    * [Writes Documentation](writing.md) or improves it and
+    * writes [Tutorials](tutorials.md).
 
-3. **An editor** edits the documentation.
+3. **An editor** edits the documentation [Style](style.md).
 
-4. **A designer** takes care of layout, formatting, UI and readability.
+4. **A designer** takes care of layout, formatting, [UI](ui.md) and
+   readability.
 
 5. **An analytic** 
 
     * tests the documentation on readers,
     * get feedback from them,
-    * measures the documentation quality and
+    * [Measures Documentation Quality](metrics.md) and
     * makes conclusions.
 
 6. **A manager**
 
-    * creates meeting notes and
+    * creates [Meeting Notes](mettings.md) and
     * disturbs other people.
 
 7. The next iteration happens.

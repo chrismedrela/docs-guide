@@ -19,10 +19,11 @@ pages:
 - [culture.md, For Organizers, Culture]
 - [community.md, For Organizers, Community]
 
-- [writingprocess.md, For Writers, Writing Process]
+- [understandreader.md, For Writers, Understand Reader]
+- [writing.md, For Writers, Writing Documentation]
 - [tutorials.md, For Writers, Tutorials]
 
-- [language.md, For Editors, Language]
+- [style.md, For Editors, Style]
 
 - [ui.md, For Designers, UI]
 
