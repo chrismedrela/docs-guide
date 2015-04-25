@@ -1,7 +1,8 @@
 Process
 =======
 
-This page explains the process of creating documentation.
+This page explains the process of creating documentation and different people
+roles.
 
 There are following steps of creating documentation:
 
@@ -15,14 +16,18 @@ There are following steps of creating documentation:
       People](managing.md),
     * promotes [Culture](culture.md) of creating documentation and
     * in the case of open source projects, takes care about entire
-      [Community](community.md).
+      [Community](community.md) and encourage it to contribute to your project.
+
+    Some of these steps can be executed simultaneously with the next ones.
 
 2. **A writer**
 
     * [Understands Reader](understandreader.md) and asks who is their audience,
+    * chooses appropriate [Documentation Type](doctypes.md) and a
+      [Template](templates.md)
     * chooses a template,
     * [Writes Documentation](writing.md) or improves it and
-    * writes [Tutorials](tutorials.md).
+    * writes [Tutorials](tutorials.md) or improves existing ones.
 
 3. **An editor** edits the documentation [Style](style.md).
 
@@ -31,19 +36,14 @@ There are following steps of creating documentation:
 
 5. **An analytic** 
 
-    * tests the documentation on readers,
-    * get feedback from them,
-    * [Measures Documentation Quality](metrics.md) and
-    * makes conclusions.
+    * tests the documentation on readers and get feedback from them,
+    * [Measures Documentation Quality](measuring.md) and makes conclusions.
 
-6. **A manager**
+6. The next iteration happens.
 
-    * creates [Meeting Notes](meetings.md) and
-    * disturbs other people.
+**A manager** performs meeting and creates [Meeting Notes](meetings.md).
 
-7. The next iteration happens.
-
-**A presenter** create [Presentations](presentations.md), not documentation!
+**A presenter** creates [Presentations](presentations.md), not documentation!
 
 <span class="warn"></span>If you are not listed in this list, please [tell us
 that](https://github.com/chrismedrela/docs-guide/issues/new).

@@ -37,3 +37,9 @@ Finding Editors
 
 If you do not have any editors, ask OReilly for help and releasing your
 documentation as a book.
+
+Other observations
+------------------
+
+People care more about documentation if they are accountable for it personally
+(bugs in documentation).

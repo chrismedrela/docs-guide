@@ -19,6 +19,14 @@ General observations
 4. People don't like *click insanity*. This should be the objective even if
    that results in duplicated information in a lot of pages.
 
+5. Information is no longer a value; filtering information and giving us the
+   right information and teaching us is now a value. Therefore, it's not enough
+   to just give some obscure reference with no use cases. You need to take care
+   of maintaining structure that makes the documentation easy to search. For
+   example, there should be "search" tool or an index. In the case of
+   single-page documentation, the reader can use searching builtin into
+   browser.
+
 How to find good structure?
 ---------------------------
 
@@ -39,6 +47,10 @@ One Entry Point
 
 It's important to have one page with links to every other documentation page. A
 good example is [Django documentation](https://docs.djangoproject.com/en/1.8/).
+
+At the same time do not forget, that people can get to your documentation
+through different paths because web is just pages with hyperlinks. So they may
+not go through the front door.
 
 Single page documentation
 -------------------------
