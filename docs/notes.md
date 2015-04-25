@@ -1,22 +1,18 @@
 Notes
 =====
 
-My private notes to keep track what is bad about this Guide.
+My private notes.
+
+The audience is:
+
+- People who have some specific problem and are looking for solution. For
+  example, a writer may write too long sentences. Solution: make cats arrive when writing. Or write via dictation.
+
+- People who are looking for some standard of process of creating
+  documentation. For these people, we should provide a checklist for each role.
 
 The goal is to dump all knowledge from [Write the Docs
 conferences](http://conf.writethedocs.org/).
-
-Where we have duplication?
---------------------------
-
-- Platform & Tools/Measuring Documentation Quality:
-    + use embedded questions like "how useful was this site?"
-
-- Meeting notes/Process
-    + ask yourself the question who is the audience? 
-
-- Meeting notes/Language
-    + define, who, what, and when?
 
 Proposals of Changes in Topics
 ------------------------------
@@ -32,8 +28,13 @@ Proposals of Changes in Topics
 - split: Measure Documentation Quality -> Measure Documentation Quality &
   Getting Feedback
 
-Users of This Guide
--------------------
+Proposals of Changes in Roles
+-----------------------------
 
 - split: Organizers -> Organizers & Community Supporters
-- add: Marketing ?
+
+TODOs
+-----
+
+- Organizer -> Organizer & Manager
+- "This page" -- split into points
