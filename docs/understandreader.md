@@ -1,8 +1,7 @@
 Understand Reader
 =================
 
-This page is about process of creating documentation, from the view of a
-writer.
+This page is about the first step for writer, that is asking themself some questions.
 
 Ask yourself the following questions:
 
