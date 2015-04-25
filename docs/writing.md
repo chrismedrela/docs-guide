@@ -12,6 +12,9 @@ General advices
 3. Assume that a reader doesn't know what he doesn't know. I.e., the reader may
    not know that the private key should be kept secret in order to cryptography
    remain secure.  It's the writer responsibility to include that information.
+   You need to be mistake-proof. By the way, see
+   [mistakeproofing.com](http://mistakeproofing.com) for some ideas outside our
+   industry.
 
 4. Provide good defaults.
 
@@ -22,6 +25,8 @@ General advices
 6. Describe common use cases. If the use cases are long enough, you can turn
    them into [howtos](doctypes.md#how-tos).
 
+7. If you can see some product failure, ask the developer to fix it instead of
+   documenting around them.
 
 Too long sentences
 ------------------

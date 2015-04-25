@@ -21,6 +21,12 @@ You should use Markdown or RestructuredText. The former is easier while the latt
 
 **TODO** comparision: Markdown vs RestructuredText
 
+Other ideas
+-----------
+
+- Use "verbosity" option in documentation so the reader can choose the level of
+  details described.
+
 Problems with current approach
 ------------------------------
 

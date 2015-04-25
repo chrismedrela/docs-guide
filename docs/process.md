@@ -14,6 +14,8 @@ There are following steps of creating documentation:
     * enforces initial [Documentation Structure](structure.md),
     * splits work between people and takes care of [Managing
       People](managing.md),
+    * provides some roadmap for creating documentation (waterfall seem to work
+      in documentation)(this approach is used in i.e. Wordpress),
     * promotes [Culture](culture.md) of creating documentation and
     * in the case of open source projects, takes care about entire
       [Community](community.md) and encourage it to contribute to your project.

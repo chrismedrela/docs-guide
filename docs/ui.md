@@ -8,6 +8,8 @@ Formatting
 
 3. Use icons. You can find free icons on the net.
 
+4. Use lists instead of paragraphs.
+
 Use code snippets, diagrams, icons and so on helps to overcome the monotony of
 text.
 
