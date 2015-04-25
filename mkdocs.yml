@@ -15,9 +15,11 @@ pages:
 - [platform.md, For Organizers, Platform & Tools]
 - [templates.md, For Organizers, Templates]
 - [structure.md, For Organizers, Documentation Structure]
-- [managing.md, For Organizers, Managing People]
 - [culture.md, For Organizers, Culture]
 - [community.md, For Organizers, Community]
+
+- [managing.md, For Managers, Managing People]
+- [meetings.md, For Managers, Meeting Notes]
 
 - [understandreader.md, For Writers, Understand Reader]
 - [writing.md, For Writers, Writing Documentation]
@@ -28,8 +30,6 @@ pages:
 - [ui.md, For Designers, UI]
 
 - [measuring.md, For Analytics, Measuring Documentation Quality]
-
-- [meetings.md, For Managers, Meeting Notes]
 
 - [presentations.md, For Presenters, Presentations]
 

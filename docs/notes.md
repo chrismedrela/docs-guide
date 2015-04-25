@@ -19,22 +19,13 @@ Proposals of Changes in Topics
 
 - add: Discoverability
 - add: documentation support & maintenance
-- add: Style
 - add: Specifications
-- add: Iterate
 - add: Audience
-- rename: Measuring Documentation Quality -> Documentation Feedback
-- rename: Language -> Language & Style
+- rename: Measuring Documentation Quality -> Feedback
 - split: Measure Documentation Quality -> Measure Documentation Quality &
   Getting Feedback
-
-Proposals of Changes in Roles
------------------------------
-
-- split: Organizers -> Organizers & Community Supporters
 
 TODOs
 -----
 
-- Organizer -> Organizer & Manager
 - "This page" -- split into points
