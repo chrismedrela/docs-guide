@@ -24,8 +24,3 @@ Proposals of Changes in Topics
 - rename: Measuring Documentation Quality -> Feedback
 - split: Measure Documentation Quality -> Measure Documentation Quality &
   Getting Feedback
-
-TODOs
------
-
-- "This page" -- split into points

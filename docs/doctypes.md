@@ -1,6 +1,8 @@
 Documentation Types
 ===================
 
+This page explains differences between different types of documentation.
+
 There are three basic types of documentations:
 
 - [tutorials](tutorials.md) (aka quick start or getting started)
